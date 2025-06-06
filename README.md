@@ -33,3 +33,5 @@ From a design perspective, the use of flexbox makes the layout highly responsive
 What makes this project stand out is its simplicity and clarity. Without using JavaScript or a backend system, the project still manages to represent real-world functionality like listing courses, tracking progress, and displaying multimedia content. It serves as an excellent foundation for expanding into a full-stack project in the future.
 
 In conclusion, this E-Learning Platform project demonstrates solid front-end development skills, good UI design sense, and a clear understanding of user needs. It's perfect for showcasing to potential employers or adding to a student portfolio, especially for those aspiring to enter web development or UI/UX design.
+
+![Image](https://github.com/user-attachments/assets/788258d8-1076-439e-aaf9-03d588773935)
